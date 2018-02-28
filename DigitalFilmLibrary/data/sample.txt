@@ -1,0 +1,45 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0	id
+1	title
+2	imdbID
+3	spanishTitle
+4	imdbPictureURL
+5	year
+6	rtID
+7	rtAllCriticsRating
+8	rtAllCriticsNumReviews
+9	rtAllCriticsNumFresh
+10	rtAllCriticsNumRotten
+11	rtAllCriticsScore
+12	rtTopCriticsRating
+13	rtTopCriticsNumReviews
+14	rtTopCriticsNumFresh
+15	rtTopCriticsNumRotten
+16	rtTopCriticsScore
+17	rtAudienceRating
+18	rtAudienceNumRatings
+19	rtAudienceScore
+20	rtPictureURL

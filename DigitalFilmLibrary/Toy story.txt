@@ -1,0 +1,61 @@
+id: 1
+title: Toy story
+imdbID: 0114709
+spanishTitle: Toy story (juguetes)
+imdbPictureURL: http://ia.media-imdb.com/images/M/MV5BMTMwNDU0NTY2Nl5BMl5BanBnXkFtZTcwOTUxOTM5Mw@@._V1._SX214_CR0,0,214,314_.jpg
+year: 1995
+rtID: toy_story
+rtAllCriticsRating: 9
+rtAllCriticsNumReviews: 73
+rtAllCriticsNumFresh: 73
+rtAllCriticsNumRotten: 0
+rtAllCriticsScore: 100
+rtTopCriticsRating: 8.5
+rtTopCriticsNumReviews: 17
+rtTopCriticsNumFresh: 17
+rtTopCriticsNumRotten: 0
+rtTopCriticsScore: 100
+rtAudienceRating: 3.7
+rtAudienceNumRatings: 102338
+rtAudienceScore	rtPictureURL: 81
+
+Genres List
+Animation
+Adventure
+Children
+Comedy
+Fantasy
+
+Countries List
+USA
+
+Locations List
+
+Actors List
+Annie Potts
+Sherry Lynn
+Patrick Pinney
+Sarah Freeman
+Wallace Shawn
+Philip Proctor
+Kendall Cunningham
+Jack Angel
+Jan Rabson
+John Morris
+John Ratzenberger
+Greg Berg
+Laurie Metcalf
+R. Lee Ermey
+Scott McAfee
+Tim Allen
+Penn Jillette
+Jim Varney
+Joan Cusack
+Joe Ranft
+Bill Farmer
+Don Rickles
+Tom Hanks
+Erik von Detten
+
+Directors List
+John Lasseter
